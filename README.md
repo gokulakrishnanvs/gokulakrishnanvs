@@ -1,6 +1,6 @@
 ## Hi 👋, I’m @gokulakrishnanvs
 
- <img align="right" width="400" height="300" src="https://github.com/user-attachments/assets/94f1a941-2deb-4c46-a9eb-7f73d84b38d1">
+ 
 
 Lead Full-Stack Developer @ Tecnotree Corporation 
 - 👀 I’m interested in understanding and solving problem statements that blend with technology
@@ -17,14 +17,25 @@ Lead Full-Stack Developer @ Tecnotree Corporation
   - and a working understanding of Kubernetes
 - Good Amount of Knowledge in Prometheus and  Grafana
 
+<br/>
 
+
+<div align="left" >
+  <img align="left" width="600" height="400" src="https://github.com/user-attachments/assets/94f1a941-2deb-4c46-a9eb-7f73d84b38d1">
+</div>
+
+<div align="right">
+ 
 <br/>**Languages** <br/>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
+ 
 **Frameworks and Libraries** <br/> 
 
 <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" /><img width="50" height="50" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/><img width="50" height="50" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/officel/80/express-js.png" alt="express-js"/>
+
+
 
 **Version Control and Repository** <br/>
 
@@ -34,11 +45,11 @@ Lead Full-Stack Developer @ Tecnotree Corporation
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/mongo-db.png" alt="mongo-db"/><img width="50" height="50" src="https://img.icons8.com/color/96/my-sql.png" alt="my-sql"/><img width="50" height="50" src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql"/>
 
-**Tools: Visual Studio Code, Postman, JIRA, Camunda Modeller** <br/>
+**Tools** <br/>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://github.com/user-attachments/assets/43475788-d99b-4199-881a-40164cadf1f1" /><img width="50" height="50" src="https://img.icons8.com/color/96/jira.png" alt="jira"/><img height="50" width="50" src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-
+ </div>
 
 <!---
 gokulakrishnanvs/gokulakrishnanvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
