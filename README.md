@@ -1,6 +1,6 @@
 ## Hi 👋, I’m @gokulakrishnanvs
 
- <img align="right" width="550" height="450" src="https://github.com/user-attachments/assets/94f1a941-2deb-4c46-a9eb-7f73d84b38d1">
+ <img align="right" width="400" height="300" src="https://github.com/user-attachments/assets/94f1a941-2deb-4c46-a9eb-7f73d84b38d1">
 
 Lead Full-Stack Developer @ Tecnotree Corporation 
 - 👀 I’m interested in understanding and solving problem statements that blend with technology
