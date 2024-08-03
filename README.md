@@ -1,6 +1,7 @@
 ## Hi 👋, I’m @gokulakrishnanvs
 
  
+![Animation - 1722717854474](https://github.com/user-attachments/assets/54317481-1558-4039-b48e-2b954bb7b1e9)
 
 Lead Full-Stack Developer @ Tecnotree Corporation 
 - 👀 I’m interested in understanding and solving problem statements that blend with technology
