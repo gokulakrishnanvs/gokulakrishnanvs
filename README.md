@@ -3,6 +3,9 @@
  
 ![Animation - 1722717854474](https://github.com/user-attachments/assets/54317481-1558-4039-b48e-2b954bb7b1e9)
 
+<img align="right" width="380" height="400" src="https://github.com/user-attachments/assets/2132894b-6384-4de1-a72c-5f0eefef3bc1">
+
+
 Lead Full-Stack Developer @ Tecnotree Corporation 
 - 👀 I’m interested in understanding and solving problem statements that blend with technology
 - 🌱 I’m currently Re-learning DSA and Working on my portfolio site
