@@ -9,7 +9,7 @@ Lead Full-Stack Developer @ Tecnotree Corporation
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulakrishnanvs/)
 -  Or.. Click here to <br/><a href="mailto:gokulakrishnan.v.s@outlook.com?subject=Get%20In%20Touch&body=Hi%20there,%20I%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20discuss%20potential%20opportunities.">
   <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-007BFF?style=for-the-badge" alt="GIT"></a>
-- ⚡ Fun fact: I am also a Post Graduate Certificate Holder in Executive General Management from IIM Trichy ( Indian Institute of Management )
+- ⚡Fact: I am also a Post Graduate Certificate Holder in Executive General Management from Indian Institute of Management, Trichy
 - Prefer Agile Methodology, than WaterFall ( worked on both )
 - I also work in Cloud-related Services Like
   - Azure (App Services, Key Vault, Functions, Blob Storage, DevOps),
